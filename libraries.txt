@@ -1,0 +1,7 @@
+# Wokwi Library List
+
+# Automatically added based on includes:
+LiquidCrystal
+Servo
+Keypad
+# ---
